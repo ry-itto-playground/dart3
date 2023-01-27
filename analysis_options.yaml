@@ -1,0 +1,8 @@
+include: package:lints/recommended.yaml
+
+analyzer:
+  enable-experiment:
+    - class-modifiers
+    - sealed-class
+    - records
+    - patterns
